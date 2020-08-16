@@ -1,8 +1,8 @@
-## Requirements and Simple Installation Instructions to Run the Source Files:
+## Requirements and Simple Installation Instructions to Run the Source File:
 
 ##### **IF YOU ARE USING WINDOWS, YOU DON'T NEED TO DO ANY OF THIS, JUST DOWNLOAD AND RUN THE .EXE FILE FROM THE RELEASE**
 
-#### If you want to run the source files, or if you are on another OS, then follow the steps below:
+#### If you want to run the source file, or if you are on another OS, then follow the steps below:
 
 ## You will Need:
 
