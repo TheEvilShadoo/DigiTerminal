@@ -1,7 +1,7 @@
 # DigiTerminal
 DigiTerminal is a testing framework for the Digibutter 3.0 API, which allows for the automation of certain tasks on the digibutter.nerr.biz website.
 
-**Check out help.md for the requirements and installation instructions.**
+**Check out help.txt for the requirements and simple installation instructions.**
 
 ## Features
 - Logging registered users into digibutter.nerr.biz
