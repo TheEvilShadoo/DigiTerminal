@@ -11,7 +11,7 @@ DigiTerminal is a testing framework for the Digibutter 3.0 API, which allows for
 - Replying to specific topics in the current channel
 
 #### What I'd like to be able to add in the future
-- Adding Access to the chatbox
+- Access to the chatbox
 - Listing topics and replies separately to lessen the clutter
 
 #### What I can't add because of some restrictions while interacting with the site's Material Design Lite layout
