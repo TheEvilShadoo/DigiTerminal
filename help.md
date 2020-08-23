@@ -1,22 +1,22 @@
-## Requirements and Simple Installation Instructions to Run the Source File:
+## Requirements and Simple Installation Instructions:
 
-##### **IF YOU ARE USING WINDOWS, YOU DON'T NEED TO DO ANY OF THIS, JUST DOWNLOAD AND RUN THE .EXE FILE FROM THE RELEASE**
+##### **IF YOU ARE USING WINDOWS, YOU ONLY NEED TO DOWNLOAD THE CHROME WEBDRIVER AND PUT IT IN YOUR WINDOWS PATH (SEE THE INSTRUCTIONS BELOW UNDER THE "If you are on Windows" SECTION), OTHER THAN THAT, JUST DOWNLOAD AND RUN THE .EXE FILE FROM THE RELEASE**
 
 #### If you want to run the source file, or if you are on another OS, then follow the steps below:
 
 ## You will Need:
 
--Python 3.5 or higher (Just download the latest version from the website.)
+- Python 3.5 or higher (Just download the latest version from the website.)
 
--Selenium Python Library (To install, just install Python, then open a
+- Selenium Python Library (To install, just install Python, then open a
 Command Prompt/Terminal window and type "pip install selenium")
 
--The latest version of Google Chrome and its corresponding Webdriver
+- The latest version of Google Chrome and its corresponding Webdriver
 link: https://chromedriver.chromium.org/downloads
 Again, I really prefer Firefox, but the Chrome webdriver
 is much easier to use and has better support.
 
--The last thing you need to do before you can use DigiTerminal is to put
+- The last thing you need to do before you can use DigiTerminal is to put
 the Chrome webdriver in your "PATH". What this means is you need to
 have the Chromedriver in a special location called the "PATH" in order
 for Python to locate it. This is the hardest part of the setup process, but
