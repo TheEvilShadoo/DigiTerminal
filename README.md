@@ -1,7 +1,7 @@
 # DigiTerminal
-DigiTerminal is both a testing framework for the Digibutter 3.0 API and a prototype of sorts for NerrBot: Rehatched. DigiTerminal allows for the automation of certain tasks on the http://digibutter.nerr.biz website.
+DigiTerminal is both a testing framework for the Digibutter 3.0 website and a prototype of sorts for NerrBot: Rehatched. DigiTerminal does not interact with the Nerr 3.0 API directly, it just emulates a web browser clicking around on the webpage. As such, DigiTerminal is clunky, and it isn't realy intended to be used for anything more than a proof of concept. If digibutter ever manages to become popular again one day (one can dream, can't he?), then I may consider reriting this to interact with the API directly. This could be useful for embedding into the Bitlands game if it were to ever come into existance again.
 
-**Check out help.md for both the required dependencies AND _simple_ info on how to run the source files if you're new to Python.**
+**Check out help.md for both the required dependencies AND _simple_ info on how to setup the Chrome webdriver.**
 
 ## Features
 - Logging registered users into digibutter.nerr.biz
